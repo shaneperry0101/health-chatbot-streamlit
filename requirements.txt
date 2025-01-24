@@ -1,0 +1,11 @@
+duckduckgo-search==7.2.1
+langchain-ai21==1.0.1
+langchain-community==0.3.15
+langchain-groq==0.2.3
+langchain-huggingface==0.1.2
+langchain-openai==0.3.2
+langchain==0.3.15
+langgraph==0.2.67
+python-dotenv==1.0.1
+streamlit==1.41.1
+youtube-search-python==1.6.6
